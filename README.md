@@ -54,7 +54,6 @@
 
 ## How to Run the Project
 
-### Backend Setup
 ```bash
 cd backend
 npm install
